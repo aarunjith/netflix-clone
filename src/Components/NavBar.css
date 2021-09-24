@@ -1,0 +1,14 @@
+.nav {
+  position: fixed;
+  padding: 10px 30px;
+  transition: background-color 0.4s ease-in;
+}
+
+.nav__logo {
+  object-fit: contain;
+  width: 10%;
+}
+
+.nav__black {
+  background-color: rgba(0, 0, 0, 0.959);
+}
